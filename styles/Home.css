@@ -6,6 +6,15 @@
 .homepage-header{
     text-align: center;
     margin-top:10px; 
+    text-align: center;
+    margin: 0 auto 50px;
+    font-family: Droid Serif,Palatino Linotype,Book Antiqua,Palatino,FreeSerif,serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    color: #DA3786;
+    text-transform: none;
+    line-height: 1.75;
 }
 .home-container{
     height:100vh;
@@ -27,7 +36,18 @@
     border-radius: 50%;
 }
 .card-name{
-    text-align: center
+    text-align: center;
+    text-align: center;
+    margin-top:10px; 
+    text-align: center;
+    margin: 0 auto 50px;
+    font-family: Droid Serif,Palatino Linotype,Book Antiqua,Palatino,FreeSerif,serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    color: #DA3786;
+    text-transform: none;
+    line-height: 1.75;
 }
 .aboutus-link{
     color: green
