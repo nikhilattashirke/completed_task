@@ -1,0 +1,44 @@
+.aboutuscomponent-container{
+    height: 100vh;
+    width: 100%;
+}
+.section-title2-h1{
+    text-align: center;
+    color: #4c3d54;
+    margin-top: 100px;
+    font-size: 50px;
+    text-transform: none;
+    letter-spacing: 0;
+}
+.section-title2-h2{
+    text-align: center;
+    color: #4c3d54;
+    display: block;
+    margin-right: 1.16509%;
+    width: 74.70873%;
+    margin-left: 12.64564%;
+    float: none;
+    font-family: Droid Serif,Palatino Lihomepage-section-titlenotype,Book Antiqua,Palatino,FreeSerif,serif;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 0;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    clear: both;
+}
+.tech-list{
+    width: 100%;
+    text-align: center
+}
+.technologies-list{
+    display: inline-block;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}

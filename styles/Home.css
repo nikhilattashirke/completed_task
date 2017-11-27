@@ -1,0 +1,34 @@
+.home-main-container{
+    height: 100vh;
+    width:100%;
+    /* background: #DAC7DA */
+}
+.homepage-header{
+    text-align: center;
+    margin-top:10px; 
+}
+.home-container{
+    height:100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    margin-top:30px; 
+   
+    
+}
+.tech-card{
+    /* display: flex; */
+    /* flex-direction: row; */
+    margin: 60px;
+}
+.card-image{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+.card-name{
+    text-align: center
+}
+.aboutus-link{
+    color: green
+}

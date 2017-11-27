@@ -1,0 +1,25 @@
+.loginpage-container{
+    background: #3C5896;
+    height:100vh;
+    width: 100%;
+}
+.login-field{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.submit-button-field{
+    text-align: center;
+}
+.submit-buuton{
+    background: #3C5896;
+    width:150px;
+    margin: 5px;
+    border:1 px solid white;
+    border-radius: 25%;
+    margin-top:15px ;
+    color: white
+}
+.credential-error{
+    color: red;
+    text-align: center
+}

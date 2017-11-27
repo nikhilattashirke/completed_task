@@ -1,0 +1,32 @@
+.team-main-container{
+    height: 100vh;
+    width: 100%;
+}
+.team-page-header{
+    text-align: center
+}
+.team-page-header-h2{
+    text-align: center
+}
+.team-container{
+    height:100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    margin:30px; 
+    
+   
+}
+.team-card-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    padding: 30px;
+    
+}
+.co-founder-name{
+    text-align: center
+}
+.co-founder-position{
+    text-align: center
+}
