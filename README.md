@@ -18,5 +18,13 @@ npm start
 
 To view project, go to: http://localhost:8080/
 
+### Login credentials
+
+```
+username:shirkenikhil123@gmail.com
+password:abAB123456
+```
+
 
 # completed_task
+# LoginTask
